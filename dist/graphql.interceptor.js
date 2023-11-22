@@ -39,8 +39,8 @@ let GraphqlInterceptor = class GraphqlInterceptor extends _1.SentryInterceptor {
         this.client.instance().captureException(exception);
     }
 };
-GraphqlInterceptor = __decorate([
+exports.GraphqlInterceptor = GraphqlInterceptor;
+exports.GraphqlInterceptor = GraphqlInterceptor = __decorate([
     (0, common_1.Injectable)()
 ], GraphqlInterceptor);
-exports.GraphqlInterceptor = GraphqlInterceptor;
 //# sourceMappingURL=graphql.interceptor.js.map

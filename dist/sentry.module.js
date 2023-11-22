@@ -24,8 +24,8 @@ let SentryModule = SentryModule_1 = class SentryModule {
         };
     }
 };
-SentryModule = SentryModule_1 = __decorate([
+exports.SentryModule = SentryModule;
+exports.SentryModule = SentryModule = SentryModule_1 = __decorate([
     (0, common_1.Module)({})
 ], SentryModule);
-exports.SentryModule = SentryModule;
 //# sourceMappingURL=sentry.module.js.map

@@ -78,9 +78,9 @@ let SentryCoreModule = SentryCoreModule_1 = class SentryCoreModule {
         };
     }
 };
-SentryCoreModule = SentryCoreModule_1 = __decorate([
+exports.SentryCoreModule = SentryCoreModule;
+exports.SentryCoreModule = SentryCoreModule = SentryCoreModule_1 = __decorate([
     (0, common_1.Global)(),
     (0, common_1.Module)({})
 ], SentryCoreModule);
-exports.SentryCoreModule = SentryCoreModule;
 //# sourceMappingURL=sentry-core.module.js.map
